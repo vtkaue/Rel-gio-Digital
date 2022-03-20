@@ -2,7 +2,7 @@
 
 > A fantastic digital clock project
 
-> see the project : 
+> see the project : https://vtkaue.github.io/Relegio-Digital/
 
 
 <img src="./assets/project-finalized.png"  widht="250px" alt="rélogio-digital-img">
