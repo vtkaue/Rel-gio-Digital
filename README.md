@@ -1,14 +1,14 @@
-# Rélogio Digital
+# Relógio Digital
 
 > A fantastic digital clock project
 
 > see the project : https://vtkaue.github.io/Relegio-Digital/
 
 
-<img src="./assets/project-finalized.png"  widht="250px" alt="rélogio-digital-img">
+<img src="./assets/project-finalized.png"  widht="250px" alt="relógio-digital-img">
 
 
->  Rélogio Digital-Finalized
+>  Relógio Digital-Finalized
 
 ### Adjustments and improvements
 
